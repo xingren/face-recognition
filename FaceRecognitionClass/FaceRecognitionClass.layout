@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="FaceRecognition.cpp" open="1" top="1" tabpos="3">
-		<Cursor position="10352" topLine="347" />
+	<File name="src/FaceRecognition.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="10543" topLine="391" />
 	</File>
-	<File name="FaceRecognition.h" open="1" top="0" tabpos="2">
-		<Cursor position="90" topLine="0" />
+	<File name="src/FaceRecognition.h" open="1" top="0" tabpos="3">
+		<Cursor position="2580" topLine="105" />
 	</File>
-	<File name="common.h" open="1" top="0" tabpos="4">
-		<Cursor position="153" topLine="0" />
+	<File name="src/common.h" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
 	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="1">
-		<Cursor position="799" topLine="13" />
+	<File name="src/function.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="279" topLine="5" />
+	</File>
+	<File name="src/main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="815" topLine="27" />
 	</File>
 </CodeBlocks_layout_file>

@@ -35,16 +35,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="FaceRecognition.cpp">
-			<Option target="Debug" />
-		</Unit>
-		<Unit filename="FaceRecognition.h">
-			<Option target="Debug" />
-		</Unit>
-		<Unit filename="common.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="main.cpp" />
+		<Unit filename="src/FaceRecognition.cpp" />
+		<Unit filename="src/FaceRecognition.h" />
+		<Unit filename="src/common.h" />
+		<Unit filename="src/function.cpp" />
+		<Unit filename="src/main.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />

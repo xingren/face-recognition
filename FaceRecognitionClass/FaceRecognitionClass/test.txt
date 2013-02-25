@@ -1,0 +1,4 @@
+D:/Tools/opencv/FaceDataBase/orl_faces/s13/2.pgm 12
+D:/Tools/opencv/FaceDataBase/orl_faces/s13/7.pgm 12
+D:/Tools/opencv/FaceDataBase/orl_faces/s13/6.pgm 12
+D:/Tools/opencv/FaceDataBase/orl_faces/s13/9.pgm 12

@@ -4,3 +4,27 @@
 	<stdio.h>
 	<mysql/mysql.h>
 
+1361116275 source:/media/rui/E/Documents/My Documents/git project/FaceRecognitionClass/src/FaceRecognition.cpp
+	"FaceRecognition.h"
+
+1361089957 /media/rui/E/Documents/My Documents/git project/FaceRecognitionClass/src/FaceRecognition.h
+	"common.h"
+
+1361088462 /media/rui/E/Documents/My Documents/git project/FaceRecognitionClass/src/common.h
+	<mysql/mysql.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<opencv/cvaux.h>
+
+1361088444 source:/media/rui/E/Documents/My Documents/git project/FaceRecognitionClass/src/function.cpp
+	"common.h"
+	"FaceRecognition.h"
+
+1361088444 source:/media/rui/E/Documents/My Documents/git project/FaceRecognitionClass/src/main.cpp
+	"common.h"
+	"FaceRecognition.h"
+
